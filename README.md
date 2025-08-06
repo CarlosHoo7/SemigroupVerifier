@@ -4,7 +4,7 @@ Verifica si una operación lógica cumple los requisitos para ser un semigrupo.
 Este código utiliza una cuadro de doble entrada para verificar operaciones lógicas diferentes de la suma y la multiplicación.
 De tal manera que, se puedan comprobar la ley de composición interna y la asociatividad, necesarias para tener un semigrupo.
 
-![Alt text](https://github.com/CarlosHoo7/SemigroupVerifier/repo/semigroup-example.png)
+![Alt text](semigroup-example.png)
 Programé este código hace 2 años aproximadamente (2023) durante una clase de la universidad, por lo que está algo desactualizado, sin embargo, consideré que era
 buena idea subirlo en caso de que alguien necesite ayuda con alguna idea parecida.
 
